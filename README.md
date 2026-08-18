@@ -24,15 +24,6 @@ Welcome to my personal developer portfolio repository. This single-page applicat
 
 ---
 
-## ✨ Design & Architectural Highlights
-
-- 💎 **2026 Glassmorphic UI**: Translucent frosted glass containers (`backdrop-filter: blur(20px)`), glowing micro-gradients, and 1px border highlights.
-- 🎨 **Slate & Warm Cream Palette**: High-contrast typography featuring **Plus Jakarta Sans** paired with **JetBrains Mono**.
-- 🕸️ **Interactive Constellation Canvas**: Custom JavaScript HTML5 Canvas rendering floating node connections that react dynamically to screen resizing.
-- 📱 **Fluid Responsiveness**: Native CSS Grid & Flexbox layouts with floating header navigation and mobile drawer menu.
-- ⚡ **Zero-Build Architecture**: 100% self-contained single file (`index.html`) — no `npm install`, zero external build tools, fast loading times.
-
----
 
 ## 🛠️ Technical Stack Matrix
 | Category | Tech Stack |
