@@ -5,7 +5,7 @@
   <p>Building Multi-Agent Systems • RAG Pipelines • Intelligent Document Processing • Generative AI</p>
 
   <p>
-    <a href="https://my-portfolio-wheat-rho-58.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=F4EFE6" alt="Live Portfolio" /></a>
+    <a href="https://esmoligupta-qx3zbrtdt-esmoli-guptas-projects.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=F4EFE6" alt="Live Portfolio" /></a>
     <a href="https://github.com/e-smo1507"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/esmoli-gupta-171215280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:esmoiliguni@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
