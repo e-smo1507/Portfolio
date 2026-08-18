@@ -35,3 +35,8 @@ Welcome to my personal developer portfolio repository. This single-page applicat
 ---
 
 ## 🛠️ Technical Stack Matrix
+┌─────────────────────────┬─────────────────────────────────────────────────────────────┐ │ Category │ Tech Stack │ ├─────────────────────────┼─────────────────────────────────────────────────────────────┤ │ AI / ML & GenAI │ LangChain LCEL, LLMs, RAG Pipelines, Multi-Agent Systems │ │ Data Science & NLP │ Scikit-learn, Pandas, NumPy, Power BI, TF-IDF │ │ Programming Languages │ Python 3.11+, C++, JavaScript (ES6+), SQL │ │ Databases │ PostgreSQL, MySQL, MongoDB │ │ Frontend Engineering │ React.js, HTML5, CSS3, Tailwind CSS, Bootstrap │ │ Tools & Automation │ OpenClaw, n8n, Git, GitHub, Streamlit, Tavily API │ └─────────────────────────┴─────────────────────────────────────────────────────────────┘
+
+
+
+
